@@ -1,3 +1,2 @@
 # archliner.github.io
-<p>Personal Blog</p>
-<a>https://archliner.ink/</a>
+This is my [Personal Blog](https://archliner.ink/)
